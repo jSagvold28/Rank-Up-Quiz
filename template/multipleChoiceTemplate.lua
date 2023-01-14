@@ -1,11 +1,11 @@
 local function queston2()
 
     print("Multiple Choice")
-    print("Type a, b, c, d")
+    print("Type A, B, C, D")
+    print("ANSWER IN UPPECRASE")
     
     print("2: How many horsepower does the Tesla Model 3 have?")
     print("a: 400, b: 480, c: 120, d: 1020")
-    print("ANSWER IN UPPECRASE")
     
     local answer = io.read()
     
