@@ -1,7 +1,6 @@
-local function question1()
-
     print("True or False")
     print("Type T for true and F for false.")
+    print("ANSWER IN UPPECRASE")
 
     print("1: The average person drives 14,263 a year")
 
