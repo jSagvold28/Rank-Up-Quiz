@@ -1,3 +1,5 @@
+-- FILE IS BROKEN
+
 local function generalGame()
     local points = 0
 local rank = 1
